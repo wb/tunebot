@@ -70,3 +70,9 @@ If you're like us, you are (or will soon be) tired of typing `tunebot` before ea
 ## Hacks Welcome
 
 Tunebot began life as a hackday project here at Next Big Sound. We encourage you to continue the tradition by adding your own hacks and sending them back our way with a pull request. We'll also do our best to update tunebot periodically, so keep your eyes out for new releases!
+
+### Contributors
+
+* [kschrodes](https://github.com/kschrodes)
+* [wb](https://github.com/wb)
+

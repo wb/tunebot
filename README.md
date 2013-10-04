@@ -12,6 +12,8 @@ The client itself can be run on any computer that can run hubot. However, the se
 
 Before we can get tunebot up and running, we need to get hubot installed, along with an adapter for your favorite chat client. Check out [this document](https://github.com/github/hubot/blob/master/docs/README.md) for help installing hubot, and refer to [this document](https://github.com/github/hubot/blob/master/docs/adapters.md) for help installing your adapter.
 
+One more thing! If you are following along below, you will need maven installed in order to build the server. You can also download a pre-built version [here](https://github.com/nextbigsoundinc/tunebot/releases), but you'll have to modify `bin/server.sh` to point to the downloaded jar instead of trying to build it.
+
 ### Installing and Configuring the Server
 
 The server is self-contained - to get it working, just run `bin/server.sh`. You should see something like this*:

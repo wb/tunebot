@@ -35,9 +35,11 @@ tunebot> tunebot blame Mallory
 tunebot> Mallory did it!
 ```
 
+Once this is working, you'll want to modify `bin/client.sh` to configure hubot for your specific chat client - if you haven't done this already, check out the section on [getting started](#getting-started).
+
 ### Let's play some music!
 
-Now that both the client and server are running (and Spotify, of course), let's play some music with the command `tunebot dj`:
+Now that both the client and server are running (and Spotify, of course), let's play some music with the command `tunebot dj`. You can use your chat client, but we'll keep using the Shell client from before:
 
 ```
 tunebot> tunebot dj
